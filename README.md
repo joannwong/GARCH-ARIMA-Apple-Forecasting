@@ -1,4 +1,4 @@
-# ARIMA-GARCH-Apple-Forecasting
+# GARCH & ARIMA Modelling on Apple Stock Price
 
 I analysed the Apple stock and used GARCH & ARIMA models to forecast stock prices. 
 - Achieved stationarity through seasonal & non-sesaonal differencing; verified using KPSS & ADF tests
